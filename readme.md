@@ -1,3 +1,8 @@
+# CLOSURE
+
+The `closure` folder of this codebase includes an implementation of [[CLOSURE]](https://arxiv.org/pdf/2403.09990) By Yihuai Gao, Yukai Tang, Han Qi, and Heng Yang
+
+
 # FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects
 [[Paper]](https://arxiv.org/abs/2312.08344) [[Website]](https://nvlabs.github.io/FoundationPose/)
 
